@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <wiringPi.h>
+#include <softPwm.h>
+#define MOTOR1 1
+#define MOTOR2 2
+
+int main(void)
+{
+  int data;
+  if (wiringPiSetup() == -1) {
+    return 1 ;
+  }
+
+  pinMode (MOTOR1, OUTPUT) ;
+  pinMode (MOTOR2, OUTPUT) ;
+
+  softPwmCreate(MOTOR1, 0, 200);
+  softPwmCreate(MOTOR2, 0, 200);
+  while(1)
+  {
+    scanf("%c", &data);
+    if(data == 'w' || data == 'W')
+    {
+      softPwmWrite(MOTOR1, 60);
+      softPwmWrite(MOTOR2, 0);
+    }
+    else if(data == 's' || data == 'S')
+    {
+      softPwmWrite(MOTOR1, 0);
+      softPwmWrite(MOTOR2, 0);
+    }
+    else if(data == 'x' || data == 'X')
+    {
+      softPwmWrite(MOTOR1, 0) ;
+      softPwmWrite(MOTOR2, 60) ;
+    }
+  }
+  return 0 ;
+}
