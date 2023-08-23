@@ -1,12 +1,6 @@
-
-# facematch
-Face match in python using Facenet and their pretrained model
-=======
 # Drowsiness-Car-Accidents-Prevention-System-with-Image-Processing
-🚗
-# Drowsiness Car Accidents Prevention System with Image Processing
 
-![눈뜬거.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10d355da-54ab-4275-aa9b-a0ca86645857/%EB%88%88%EB%9C%AC%EA%B1%B0.png)
+![눈뜬거](https://github.com/2cleanwater/Drowsiness-Car-Accidents-Prevention-System-with-Image-Processing/assets/32264455/e92e08b5-24b6-458b-a90c-aeac4fa10335)
 
 ## 프로젝트 소개
 
@@ -33,23 +27,23 @@ Face Landmarks를 이용한 눈 비율 측정 시스템, 라즈베리파이를 �
 
 - Dlib을 이용한 Face Landmark 추출
     
-    ![afasfasd.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1fe3639-be78-4ec9-a2b9-ea7e47ba9aa4/afasfasd.png)
-    
+    ![afasfasd](https://github.com/2cleanwater/Drowsiness-Car-Accidents-Prevention-System-with-Image-Processing/assets/32264455/7ad8ea50-2ddf-4ca8-bdfe-aea51b913c6b)
+
 
 - 눈 부위 넓이 비율을 계산해 일정 수치 이하로 지속될 경우 알람 출력
     
-    ![감은거.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb898330-2af1-4b47-aedb-f4d54d643693/%EA%B0%90%EC%9D%80%EA%B1%B0.png)
-    
+    ![감은거](https://github.com/2cleanwater/Drowsiness-Car-Accidents-Prevention-System-with-Image-Processing/assets/32264455/001baf8b-121b-4adc-80d2-3c84b5f738fa)
+
 
 - 이중 Face recognition을 이용한 얼굴 인식률 증가
     
-    ![sssss.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c3c6ef4-afc7-41e1-8626-ad562e2ed7e1/sssss.png)
-    
+    ![sssss](https://github.com/2cleanwater/Drowsiness-Car-Accidents-Prevention-System-with-Image-Processing/assets/32264455/ff296419-df93-4432-8728-06a3f1586001)
+
 
 - FaceNet을 이용한 Facial Login 시스템
     
-    ![KakaoTalk_20180613_202751780.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73f5a34a-e312-40ce-82d7-6bb5281b76e9/KakaoTalk_20180613_202751780.png)
-    
+    ![KakaoTalk_20180613_202751780](https://github.com/2cleanwater/Drowsiness-Car-Accidents-Prevention-System-with-Image-Processing/assets/32264455/fe2f085e-c7ed-4af8-b65e-5f4e6bce46c0)
+
 
 ## 역할
 
