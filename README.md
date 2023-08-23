@@ -7,10 +7,10 @@
 (Nov 2017 - Nov 2018)
 
 [![Video Label](http://img.youtube.com/vi/3OTnL2_dCYw/0.jpg)](https://www.youtube.com/watch?v=3OTnL2_dCYw)
-
-[![Video Label](http://img.youtube.com/vi/9M8H8w92Rec/0.jpg)](https://www.youtube.com/watch?v=9M8H8w92Rec)
 https://www.youtube.com/watch?v=3OTnL2_dCYw
 
+
+[![Video Label](http://img.youtube.com/vi/9M8H8w92Rec/0.jpg)](https://www.youtube.com/watch?v=9M8H8w92Rec)
 https://www.youtube.com/watch?v=9M8H8w92Rec
 
 ✔ Face Landmark를 이용한 얼굴 인식을 통해 졸음 운전 감지 및 사고 예방을 해주는 프로그램입니다.
