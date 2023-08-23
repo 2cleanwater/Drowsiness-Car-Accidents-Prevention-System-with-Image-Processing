@@ -6,8 +6,10 @@
 
 (Nov 2017 - Nov 2018)
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=3OTnL2_dCYw)
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=9M8H8w92Rec)
+[![Video Label](![2023-08-23 16 51 07](https://github.com/2cleanwater/Drowsiness-Car-Accidents-Prevention-System-with-Image-Processing/assets/32264455/48fdf908-1210-4e06-8cb8-1be5fd6b6ef2)
+)](https://www.youtube.com/watch?v=3OTnL2_dCYw)
+[![Video Label](![2023-08-23 16 51 24](https://github.com/2cleanwater/Drowsiness-Car-Accidents-Prevention-System-with-Image-Processing/assets/32264455/cc7b6ccf-b2c8-4472-8e41-0d93d7e8d5f4)
+)](https://www.youtube.com/watch?v=9M8H8w92Rec)
 
 https://www.youtube.com/watch?v=3OTnL2_dCYw
 
