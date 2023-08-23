@@ -6,8 +6,9 @@
 
 (Nov 2017 - Nov 2018)
 
-[![Video Label](https://www.youtube.com/watch?v=9M8H8w92Rec)
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)]([https://youtu.be/uLR1RNqJ1Mw?t=0s](https://www.youtube.com/watch?v=3OTnL2_dCYw))
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=3OTnL2_dCYw)
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=9M8H8w92Rec)
+
 https://www.youtube.com/watch?v=3OTnL2_dCYw
 
 https://www.youtube.com/watch?v=9M8H8w92Rec
